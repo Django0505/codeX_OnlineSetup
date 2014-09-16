@@ -1,0 +1,45 @@
+ 1  apt-get install git
+    2  sudo apt-get install git
+    3  git
+    4  sudo apt-get install git
+    5  ls
+    6  pwd
+    7  apg-get
+    8  apt-get install git
+    9  sudo apt-get install git
+   10  sudo apt-get update
+   11  sudo apt-get install git
+   12  history
+   13  google chrome
+   14  sudo apt-get install googlecl
+   15  google chrome
+   16  googlecl
+   17  google cl
+   18  pwd
+   19  cd projects
+   20  dir
+   21  cd codeX_OnlineSetup/
+   22  ls
+   23  git status
+   24  touch .gitignore
+   25  nano .gitignore
+   26  git status
+   27  ls -alt
+   28  clear
+   29  pwd
+   30  git add socialmediaprofiles.txt
+   31  git status
+   32  git commit -m 'added socialmediaprofile'
+   33  git config --global user.email "mawande@projectcodex.co"
+   34  git commit -m 'added socialmediaprofile'
+   35  git status
+   36  git push master origin
+   37  git push origin master 
+   38  git status
+   39  git add socialmediaprofiles.txt
+   40  git status
+   41  git commit -m 'added github account'
+   42  history
+   43  git push origin master
+   44  history
+
